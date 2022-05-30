@@ -1,4 +1,4 @@
 # Desafios-GFTStart5
-<p align="# Desafios-GFTStart5 ">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=#Desafios-GFTStart5&color=GREEN&style=for-the-badge"/>
-</p>
+
+Resolvendo alguns desafios de lógica do bootcamp GFT Start 5.
+Para resolução foi utilizado array, array list, estruturas de controle e de repetições.
